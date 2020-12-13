@@ -14,7 +14,7 @@
                     "name": "Maixduino(k210)",
                     "version": "0.3.11",
                     "architecture": "k210",
-                    "url": "http://localhost:8888/Maixduino_core_v0.3.11.zip",
+                    "url": "https://dl.sipeed.com/MAIX/Maixduino/core/Maixduino_core_v0.3.11.zip",
                     "checksum": "SHA-256:03A7A7E245494460E581883AEB19CE01D7037E327940F5DF025971ECCA3AF235",
                     "archiveFileName": "Maixduino_core_v0.3.11.zip",
                     "size": "1905004",
