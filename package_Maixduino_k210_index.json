@@ -222,7 +222,7 @@
                             "size": "47838868"
                         },
                         {
-                            "url": "http://localhost:8888/kendryte-toolchain-osx-mojave-8.2.0-20190409.tar.bz2",
+                            "url": "https://github.com/shulix/maxduino_osx/raw/main/kendryte-toolchain-osx-mojave-8.2.0-20190409.tar.bz2",
                             "checksum": "SHA-256:786486C81E4CCF87227C3EA228CDC8721228DEE60160341725DAEE57567B775D",
                             "host": "x86_64-apple-darwin",
                             "archiveFileName": "kendryte-toolchain-osx-mojave-8.2.0-20190409.tar.bz2",
